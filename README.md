@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://acmeproject.vercel.app/"><img alt="Opengraph Image" src="public\opengraph-image.png"></a>
+<a href="https://acmeproject.vercel.app/"><img alt="Opengraph Image" src="https://github.com/giovannibraaga/Acme/blob/2bed33e48112534481d8ab4d31889c5f5becb618/app/opengraph-image.png"></a>
 
 </div>
 
